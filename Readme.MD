@@ -88,9 +88,9 @@ You can view or download the dashboard from Tableau Public (link to be added her
 
 ## 🤝 Credits
 
-- Data Cleaning & Analysis: [Your Name]
-- Visualization & Dashboard: [Your Name]
-- Internship Project under [Org/Guide, if any]
+- Data Cleaning & Analysis
+- Visualization & Dashboard: Sana Fathima
+- Internship Project under Elevate Labs
 
 ---
 
